@@ -1,0 +1,4 @@
+C:\Users\Jose\Documents\CPP\CalculatorGUI\CalculatorGUI\x64\Debug\CalculatorGUI.vcxproj.AssemblyReference.cache
+C:\Users\Jose\Documents\CPP\CalculatorGUI\CalculatorGUI\x64\Debug\CalculatorGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Documents\CPP\CalculatorGUI\CalculatorGUI\x64\Debug\CalculatorGUI.MainForm.resources
+C:\Users\Jose\Documents\CPP\CalculatorGUI\CalculatorGUI\x64\Debug\CalculatorGUI.vcxproj.GenerateResource.cache
